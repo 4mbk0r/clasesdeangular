@@ -1,8 +1,14 @@
 "use strict";
-function saludar(nomb) {
-    console.log("hola" + nomb);
+var mensaje = "ola";
+if (true) {
+    var mensaje_1 = "adios";
+}
+console.log(mensaje);
+/*function saludar(nomb:string) {
+    console.log("hola"+nomb)
 }
 var wolverin = {
-    nombre: "login"
-};
-saludar(wolverin.nombre);
+    nombre:"login"
+}
+
+saludar ( wolverin.nombre );*/ 
